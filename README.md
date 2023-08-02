@@ -1,1 +1,10 @@
 # 3five8-assignment
+
+#Deployed-Link: https://3five8-assignment.netlify.app/ 
+
+#Screenshot 
+
+As you can see in the screenshot I have handled all the edge cases for this assignment 
+
+
+![3five8](https://github.com/nsalunkhe/3five8-assignment/assets/101391587/8f9265ef-cfcb-48cb-a06e-f5555d698eee)
