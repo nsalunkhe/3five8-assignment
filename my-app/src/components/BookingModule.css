@@ -1,0 +1,37 @@
+.booking-module {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f5f5f5;
+    margin-top: 100px;
+  }
+  
+  .booking-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .booking-status {
+    margin-top: 20px;
+    border-top: 1px solid #ccc;
+    padding-top: 10px;
+  }
+  
+  .booking-status h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .booking-status ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .booking-status li {
+    margin-bottom: 5px;
+  }
+  

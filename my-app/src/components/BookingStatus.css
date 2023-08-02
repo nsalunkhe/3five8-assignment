@@ -1,0 +1,19 @@
+.booking-status-content {
+    margin-top: 10px;
+  }
+  
+  .booking-status-content ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .booking-status-content li {
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+  
+  .booking-status-content .booking-details {
+    font-size: 14px;
+    color: #666;
+  }
+  
