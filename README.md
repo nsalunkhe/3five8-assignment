@@ -1,8 +1,10 @@
 # 3five8-assignment
 
+#Tech-stack used: React.Js , CSS
+
 #Deployed-Link: https://3five8-assignment.netlify.app/ 
 
-#Explaination video link :  https://drive.google.com/file/d/1rJjyjKPU6e3uhma9895Ckr0biu4BWuVK/view?usp=drivesdk
+#Explaination video link:  https://drive.google.com/file/d/1rJjyjKPU6e3uhma9895Ckr0biu4BWuVK/view?usp=drivesdk
 
 #Screenshot 
 
